@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/classes-applets/META-INF/services
+END
+javax.xml.parsers.DocumentBuilderFactory
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/classes-applets/META-INF/services/javax.xml.parsers.DocumentBuilderFactory
+END
+javax.xml.parsers.SAXParserFactory
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/classes-applets/META-INF/services/javax.xml.parsers.SAXParserFactory
+END
+javax.xml.stream.XMLInputFactory
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/classes-applets/META-INF/services/javax.xml.stream.XMLInputFactory
+END

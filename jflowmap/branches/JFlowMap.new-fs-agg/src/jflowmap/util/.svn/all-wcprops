@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util
+END
+Normalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/Normalizer.java
+END
+BagOfWordsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/BagOfWordsFilter.java
+END
+EventListenerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/EventListenerList.java
+END
+Log4ExportAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/Log4ExportAppender.java
+END
+SwingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/SwingUtils.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/IOUtils.java
+END
+LogScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/LogScale.java
+END
+Tables.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/Tables.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/MathUtils.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/Pair.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/CollectionUtils.java
+END
+ColorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/ColorUtils.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/ArrayUtils.java
+END
+PropUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/util/PropUtils.java
+END

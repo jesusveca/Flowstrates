@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 68
+*.applet
+data-proprietary
+user-study-back.html
+user-study-main.html
+
+END

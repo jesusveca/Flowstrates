@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates
+END
+ValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/ValueType.java
+END
+HeatmapCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/HeatmapCell.java
+END
+FlowLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowLine.java
+END
+Lasso.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/Lasso.java
+END
+RowOrderings.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/RowOrderings.java
+END
+AggLayersBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/AggLayersBuilder.java
+END
+SimpleHeatmapLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/SimpleHeatmapLayer.java
+END
+RefugeeAggLayersBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/RefugeeAggLayersBuilder.java
+END
+CentroidTimeSlider.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/CentroidTimeSlider.java
+END
+InteractiveFloatingLabelsNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/InteractiveFloatingLabelsNode.java
+END
+DefaultAggLayersBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/DefaultAggLayersBuilder.java
+END
+FastHeatmapLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FastHeatmapLayer.java
+END
+FastHeatmapCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FastHeatmapCursor.java
+END
+FlowstratesLegend.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowstratesLegend.java
+END
+FlowstratesControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowstratesControlPanel.java
+END
+FlowstratesHeatmapRowFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowstratesHeatmapRowFilters.java
+END
+FlowstratesStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowstratesStyle.java
+END
+TooltipText.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/TooltipText.java
+END
+AbstractHeatmapLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/AbstractHeatmapLayer.java
+END
+RowOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/RowOrdering.java
+END
+DefaultFlowstratesStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/DefaultFlowstratesStyle.java
+END
+FlowLinesColoringMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowLinesColoringMode.java
+END
+FlowLinesLayerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowLinesLayerNode.java
+END
+Centroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/Centroid.java
+END
+ViewLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/ViewLayer.java
+END
+FlowstratesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/FlowstratesView.java
+END
+RectSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/RectSet.java
+END
+MapLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/MapLayer.java
+END
+TemporalViewLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/src/jflowmap/views/flowstrates/TemporalViewLayer.java
+END

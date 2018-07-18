@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/939/trunk/JFlowMap/demo/minimal-config-example
+END
+nodes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/936/trunk/JFlowMap/demo/minimal-config-example/nodes.csv
+END
+flows.csv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/936/trunk/JFlowMap/demo/minimal-config-example/flows.csv
+END
+countries.shp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/936/trunk/JFlowMap/demo/minimal-config-example/countries.shp
+END
+countries.dbf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/936/trunk/JFlowMap/demo/minimal-config-example/countries.dbf
+END
+minimal-flowmap-config.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/939/trunk/JFlowMap/demo/minimal-config-example/minimal-flowmap-config.jfmv
+END

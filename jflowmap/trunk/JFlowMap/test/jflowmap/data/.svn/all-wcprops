@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/923/trunk/JFlowMap/test/jflowmap/data
+END
+SeqStatNormalizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/824/trunk/JFlowMap/test/jflowmap/data/SeqStatNormalizerTest.java
+END
+FlowsmapGraphAggLayersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/556/trunk/JFlowMap/test/jflowmap/data/FlowsmapGraphAggLayersTest.java
+END
+FlowMapGraphBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/923/trunk/JFlowMap/test/jflowmap/data/FlowMapGraphBuilderTest.java
+END
+FlowMapGraphEdgeAggregatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/358/trunk/JFlowMap/test/jflowmap/data/FlowMapGraphEdgeAggregatorTest.java
+END

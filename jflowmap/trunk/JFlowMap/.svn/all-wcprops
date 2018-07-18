@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/952/trunk/JFlowMap
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/831/trunk/JFlowMap/proguard.cfg
+END
+log4j-applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/851/trunk/JFlowMap/log4j-applet.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/trunk/JFlowMap/log4j.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/227/trunk/JFlowMap/build.properties
+END
+log4j-prod.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/trunk/JFlowMap/log4j-prod.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/JFlowMap/build.xml
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/101/trunk/JFlowMap/LICENSE.txt
+END

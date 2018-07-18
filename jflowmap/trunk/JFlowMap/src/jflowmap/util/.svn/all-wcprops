@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/932/trunk/JFlowMap/src/jflowmap/util
+END
+SwingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/845/trunk/JFlowMap/src/jflowmap/util/SwingUtils.java
+END
+Tables.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/338/trunk/JFlowMap/src/jflowmap/util/Tables.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/721/trunk/JFlowMap/src/jflowmap/util/MathUtils.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/707/trunk/JFlowMap/src/jflowmap/util/CollectionUtils.java
+END
+Normalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/745/trunk/JFlowMap/src/jflowmap/util/Normalizer.java
+END
+EventListenerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/295/trunk/JFlowMap/src/jflowmap/util/EventListenerList.java
+END
+Log4ExportAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/851/trunk/JFlowMap/src/jflowmap/util/Log4ExportAppender.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/345/trunk/JFlowMap/src/jflowmap/util/IOUtils.java
+END
+LogScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/JFlowMap/src/jflowmap/util/LogScale.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/JFlowMap/src/jflowmap/util/Pair.java
+END
+ColorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/815/trunk/JFlowMap/src/jflowmap/util/ColorUtils.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/436/trunk/JFlowMap/src/jflowmap/util/ArrayUtils.java
+END
+PropUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/712/trunk/JFlowMap/src/jflowmap/util/PropUtils.java
+END
+BagOfWordsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/297/trunk/JFlowMap/src/jflowmap/util/BagOfWordsFilter.java
+END
+FileDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/932/trunk/JFlowMap/src/jflowmap/util/FileDrop.java
+END

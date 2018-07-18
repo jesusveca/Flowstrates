@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/929/trunk/JFlowMap/src/jflowmap/views/flowmap
+END
+LineVisualEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/707/trunk/JFlowMap/src/jflowmap/views/flowmap/LineVisualEdge.java
+END
+FlowMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/851/trunk/JFlowMap/src/jflowmap/views/flowmap/FlowMapView.java
+END
+ColorSchemeAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/JFlowMap/src/jflowmap/views/flowmap/ColorSchemeAware.java
+END
+BSplineVisualEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/453/trunk/JFlowMap/src/jflowmap/views/flowmap/BSplineVisualEdge.java
+END
+LegendValuesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/381/trunk/JFlowMap/src/jflowmap/views/flowmap/LegendValuesGenerator.java
+END
+AbstractLegendItemProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/737/trunk/JFlowMap/src/jflowmap/views/flowmap/AbstractLegendItemProducer.java
+END
+FlowMapSmallMultipleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/852/trunk/JFlowMap/src/jflowmap/views/flowmap/FlowMapSmallMultipleView.java
+END
+FlowMapLegendItemProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/745/trunk/JFlowMap/src/jflowmap/views/flowmap/FlowMapLegendItemProducer.java
+END
+VisualEdgeStrokeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/737/trunk/JFlowMap/src/jflowmap/views/flowmap/VisualEdgeStrokeFactory.java
+END
+VisualEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/855/trunk/JFlowMap/src/jflowmap/views/flowmap/VisualEdge.java
+END
+VisualNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/828/trunk/JFlowMap/src/jflowmap/views/flowmap/VisualNode.java
+END
+VisualFlowMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/922/trunk/JFlowMap/src/jflowmap/views/flowmap/VisualFlowMap.java
+END
+VisualFlowMapModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/929/trunk/JFlowMap/src/jflowmap/views/flowmap/VisualFlowMapModel.java
+END
+VisualEdgePaintFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/843/trunk/JFlowMap/src/jflowmap/views/flowmap/VisualEdgePaintFactory.java
+END

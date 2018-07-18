@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/demo/data/maps/countries
+END
+countries.shx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/demo/data/maps/countries/countries.shx
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/demo/data/maps/countries/README
+END
+countries.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/demo/data/maps/countries/countries.png
+END
+countries.shp.gz
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/demo/data/maps/countries/countries.shp.gz
+END
+countries.dbf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/917/branches/JFlowMap.new-fs-agg/demo/data/maps/countries/countries.dbf.gz
+END
