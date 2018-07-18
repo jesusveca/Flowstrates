@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/928/trunk/JFlowMap/demo/viewconf
+END
+test-bundling.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/774/trunk/JFlowMap/demo/viewconf/test-bundling.jfmv
+END
+migrations-oecd-flowstrates.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/774/trunk/JFlowMap/demo/viewconf/migrations-oecd-flowstrates.jfmv
+END
+aid-data-flowstrates.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/774/trunk/JFlowMap/demo/viewconf/aid-data-flowstrates.jfmv
+END
+refugees-flowstrates.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/922/trunk/JFlowMap/demo/viewconf/refugees-flowstrates.jfmv
+END
+commuters-si-flowstrates.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/774/trunk/JFlowMap/demo/viewconf/commuters-si-flowstrates.jfmv
+END
+migrations-us-flowmap.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/774/trunk/JFlowMap/demo/viewconf/migrations-us-flowmap.jfmv
+END
+refugees-flowmap.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/928/trunk/JFlowMap/demo/viewconf/refugees-flowmap.jfmv
+END
+commuters-ch-flowmap.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/774/trunk/JFlowMap/demo/viewconf/commuters-ch-flowmap.jfmv
+END
+commuters-si-flowmap.jfmv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/774/trunk/JFlowMap/demo/viewconf/commuters-si-flowmap.jfmv
+END

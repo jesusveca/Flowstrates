@@ -1,0 +1,21 @@
+view=flowstrates
+
+data=csv
+data.csv.separator=,
+data.csv.nodes.src=../data/ny-taxis-nodes.csv
+data.csv.flows.src=../data/ny-taxis-flows_version3.csv
+
+data.attrs.node.id=Code
+data.attrs.node.label=Name
+data.attrs.node.lat=Lat
+data.attrs.node.lon=Long
+data.attrs.flow.origin=Origin
+data.attrs.flow.dest=Destination
+data.attrs.flow.weight.legendCaption=Numero de Refugiados
+data.attrs.flow.weight.csvList= 2013,2014,2015
+
+
+map=shapefile
+map.shapefile.src=../data/ny/countries.shp.gz
+map.shapefile.dbf.areaIdField=ISO_A3
+map.projection=None
